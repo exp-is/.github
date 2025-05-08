@@ -1,10 +1,11 @@
-# EXP.is 
+<h1 align="center">
+  <img src="./5fa9ccd98296616df779e8a3_exp-logo-ani2.gif">
+</h1>
 
-A Full-Cycle Experience Platform unifying design + Technology
+EXP. is a full-cycle experience platform unifying the worlds of design + technology to gamify travel & life.
 
 ## 🌌 Our Mission
-At EXP.is, we believe that space is limited—a fact that motivates us to question, collaborate, and co-create experiences that delight the body, elevate the mind, and unite humanity. Our vision is to build a world without physical, mental, or artificial borders. ​
-spaceis.ltd
+At EXP., we believe that space is limited—a fact that motivates us to question, collaborate, and co-create experiences that delight the body, elevate the mind, and unite humanity. Our vision is to build a world without physical, mental, or artificial borders. ​
 
 ## 🧱 Core Pillars
 EXP.is operates through four main pillars:​
@@ -21,5 +22,5 @@ EXP.is operates through four main pillars:​
 For owners, managers, and solopreneurs:
 Do you manage any underutilized resources? I bet you do: be that a space, your time, equipment, or even a city full of untold stories... Don’t you want to unleash the potential value of the resources that you already have?
 
-EXP.OS is a platform of travel technology solutions that bridges physical spaces with digital user interfaces to unleash the potential of underutilized real estate, human capital, cultural, and historical resources. EXP.OS comes in 3 modules, including: CORE, REM, and ARTEFACTS..
+EXP.OS is a platform of travel technology solutions that bridges physical spaces with digital user interfaces to unleash the potential of underutilized real estate, human capital, cultural, and historical resources. EXP.OS comes in 3 modules, including: CORE, REM, and ARTEFACTS.
 
