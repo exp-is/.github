@@ -1,19 +1,16 @@
 <h1 align="center">
-  <img src="./5fa9ccd98296616df779e8a3_exp-logo-ani2.gif">
+  <!-- <img src="./5fa9ccd98296616df779e8a3_exp-logo-ani2.gif"> -->
 </h1>
 
-EXP. is a full-cycle experience platform unifying the worlds of design + technology to gamify travel & life.
+EXP. is a full-cycle experience ecosystem unifying the world of design + technology to transcend consumerism and dissolve nationalism.
 
-## 🌌 Our Mission
-At EXP., we believe that space is limited—a fact that motivates us to question, collaborate, and co-create experiences that delight the body, elevate the mind, and unite humanity. Our vision is to build a world without physical, mental, or artificial borders. ​
-
-## 🧱 Core Pillars
+## 🧱 Core Domains
 EXP. operates through four main pillars:​
 
-- **BY EXP.**: A creative agency and architectural studio specializing in adaptive reuse and integrated brand design.
-- **EXP.OS**: A cloud-based operating system designed to manage resources, bookings, and experiences efficiently.
-- **EXP.JOURNEYS**: A platform offering mission-driven travel experiences that connect people and places.
-- **EXP.LEARNING**: A non-profit educational initiative promoting learning through giving and experiential education.​
+- **EXP.ARCHITECTURE**: A Scale-Agnostic, Multi-media, Interdisciplinary Studio.
+- **EXP.JOURNEYS**: A Mixed-reality gamified Travel Network.
+- **EXP.LEARNING**: An Experimental Education non-profit for the Post-AI world.​
+- - **EXP.OS**: An Integrated Space-time Management System.
 
 ### 🛠️ EXP.OS
 For owners, managers, and solopreneurs:
